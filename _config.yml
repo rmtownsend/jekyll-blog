@@ -1,0 +1,19 @@
+collections:
+  creators:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "creators"
+    values:
+      layout: "creator"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

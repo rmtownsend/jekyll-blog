@@ -1,0 +1,46 @@
+body {
+  font-family: 'Lora', serif;
+  margin-top: 8px;
+  color: gray;
+}
+
+h1 {
+  color: #75668c;
+  text-transform: lowercase;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: 'Karla', sans-serif;
+}
+
+h3 {
+  font-style: italic;
+  font-weight: lighter;
+}
+
+nav {
+  font-family: 'Karla', sans-serif;
+  background-color: #c9b7e5;
+  padding: .5em;
+  text-transform: lowercase;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+.nav-link {
+  color: white;
+  margin: 1em;
+}
+
+.current {
+  color: gray;
+  font-weight: bold;
+  text-transform: uppercase;
+}
