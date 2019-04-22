@@ -8,4 +8,4 @@ Hello! My name is Rebecca. I'm a librarian(ish) just trying to learn all the thi
 
 [Github](https://github.com/rmtownsend/)
 
-More about me on my [contributor page](/creators/rebecca.html).
+More about me on my [contributor page](creators/rebecca.html).
