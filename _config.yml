@@ -18,6 +18,8 @@ defaults:
     values:
       layout: "default"
 
+baseurl: "/jekyll-blog/"
+
 plugins:
   - jekyll-mentions
   - jemoji
