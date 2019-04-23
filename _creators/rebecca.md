@@ -7,4 +7,4 @@ Rebecca is an information management engineer at Jet Propulsion Laboratory and a
 
 [twitter](https://twitter.com/rmtowns) \| [ORCID](https://orcid.org/0000-0002-6313-2110) \| [LinkedIn](https://www.linkedin.com/in/rebecca-mary-townsend/)
 
-Also, she made this site. More about that on the [about page]({{site.baseurl}}about.html).
+Also, she made this site. More about that on the [about page]({{site.baseurl}}/about.html).
