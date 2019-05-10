@@ -4,13 +4,9 @@ body {
   color: gray;
 }
 
-a {
-  color: #75668c; purple
-}
-
-a:visited {
-  color: #c9b7e5; light purple
-}
+// a {
+//   color: #75668c; purple
+// }
 
 h1 {
   // color: #75668c; purple
@@ -38,10 +34,15 @@ nav {
 
 a {
   text-decoration: none;
+  color: #75668c; purple
 }
 
 a:hover {
   font-weight: bold;
+}
+
+a:visited {
+  color: #c9b7e5; light purple
 }
 
 .nav-link {
