@@ -18,7 +18,7 @@ defaults:
     values:
       layout: "default"
 
-baseurl: "https://rmtownsend.github.io/jekyll-blog/"
+baseurl: "https://rmtownsend.github.io/blog/"
 
 plugins:
   - jekyll-mentions
