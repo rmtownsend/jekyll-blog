@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-with-twitter-feed
 creator: rebecca
 ---
 
